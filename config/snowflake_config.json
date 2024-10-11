@@ -1,0 +1,9 @@
+{
+    "sfURL": "url_snowflake.snowflakecomputing.com",
+    "sfAccount": "####",
+    "sfUser": "####",
+    "sfPassword": "####",
+    "sfDatabase": "TOYS_AND_MODELS",
+    "sfSchema": "PUBLIC",
+    "sfWarehouse": "COMPUTE_WH"
+  }

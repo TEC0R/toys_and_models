@@ -1,0 +1,6 @@
+{
+    "url": "jdbc:mysql://localhost:3306/toys_and_models",
+    "driver": "com.mysql.cj.jdbc.Driver",
+    "user": "####",
+    "password": "####"
+  }

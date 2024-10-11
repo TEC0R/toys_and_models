@@ -1,0 +1,14 @@
+toys_and_models:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: #####
+      user: #####
+      password: #####
+      role: #####
+      database: TOYS_AND_MODELS
+      warehouse: COMPUTE_WH
+      schema: dev
+      threads: 4
+      client_session_keep_alive: False

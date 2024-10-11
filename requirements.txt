@@ -1,0 +1,5 @@
+apache-airflow==2.2.3
+pyspark==3.1.2
+snowflake-connector-python==2.7.4
+dbt-core==0.21.0
+dbt-snowflake==0.21.0
